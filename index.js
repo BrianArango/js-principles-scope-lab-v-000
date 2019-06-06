@@ -2,6 +2,6 @@
 myVar = customerName;
 
 function upperCaseCustomerName(customerName) {
-  myVar = bob;
+  myVar = 'bob';
   return myVar;
 }
