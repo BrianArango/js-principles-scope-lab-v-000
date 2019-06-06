@@ -5,3 +5,7 @@ function upperCaseCustomerName() {
   return customerName;
 }
 
+function upperCaseCustomerName() {
+  customerName = 'BOB';
+  return customerName;
+}
