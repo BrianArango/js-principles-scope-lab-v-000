@@ -1,5 +1,5 @@
 // Write your solution in this file!
-var result;
+var ;
 
 function upperCaseCustomerName() {
   customerName = 'bob';
