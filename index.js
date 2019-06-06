@@ -15,6 +15,6 @@ function setBestCustomer() {
   bestCustomer = 'not bob';
 }
 
-function overRideBestCustomer () {
+function overWriteBestCustomer () {
 let bestCustomer = 'joe';
 }
