@@ -12,5 +12,5 @@ function upperCaseCustomerName() {
 
 var bestCustomer = 'Not bob';
 function setBestCustomer(customerName) {
-  return customerName;
+  console.log(customerName);
 }
