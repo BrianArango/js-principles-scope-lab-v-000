@@ -20,6 +20,6 @@ bestCustomer = 'maybe bob';
 }
 
 function changeLeastFavoriteCustomer () {
-  bestCustomer;
+  bestCustomer = ;
   return bestCustomer;
 }
