@@ -20,5 +20,5 @@ bestCustomer = 'maybe bob';
 }
 
 function changeLeastFavoriteCustomer () {
-  bestCustomer = 21
+  bestCustomer = 21';
 }
