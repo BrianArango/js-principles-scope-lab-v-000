@@ -3,4 +3,5 @@ myVar = customerName;
 
 function upperCaseCustomerName(customerName) {
   myVar = bob;
+  return myVar;
 }
