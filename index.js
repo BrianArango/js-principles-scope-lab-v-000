@@ -1,5 +1,5 @@
 // Write your solution in this file!
-myVar = customerName;
+var customerName;
 
 function upperCaseCustomerName(customerName) {
   myVar = 'bob';
