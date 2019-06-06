@@ -1,7 +1,6 @@
 // Write your solution in this file!
-var ;
+var customerName = 'bob';
 
 function upperCaseCustomerName() {
-  customerName = 'bob';
-  return ;
+  return customerName;
 }
