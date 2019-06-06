@@ -21,5 +21,4 @@ bestCustomer = 'maybe bob';
 
 function changeLeastFavoriteCustomer () {
   bestCustomer = 21;
-  return bestCustomer;
 }
