@@ -2,5 +2,5 @@
 myVar = customerName;
 
 function upperCaseCustomerName(customerName) {
-  myVar.uppercase;
+  myVar = bob;
 }
